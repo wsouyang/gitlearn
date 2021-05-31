@@ -1,3 +1,5 @@
 This file is for git clone test.
 
 git pull test.
+
+git push test.
