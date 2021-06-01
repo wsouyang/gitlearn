@@ -3,3 +3,6 @@ This file is for git clone test.
 git pull test.
 
 git push test.
+
+
+修改ssh失败（防火墙原因），改回https后pull测试
